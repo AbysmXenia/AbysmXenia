@@ -2,8 +2,8 @@ About Me!
 --
 My name is Maxine Bays
 <br />
-My interests are wasting time and procrastinating
+My interests currently are beyblades and thrifting
 <br />
-I’m currently learning rust and pretending to understand how to write code
+I'm currently enrolled at University of Oregon and am pursuing a MACS (math and computer science) major
 <br />
 You can reach me by mastodon [@AbysmXenia@kolektiva.social](https://kolektiva.social/@AbysmXenia)
